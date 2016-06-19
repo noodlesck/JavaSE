@@ -2,6 +2,10 @@ package pattern_design.proxy;
 
 import java.lang.reflect.Proxy;
 
+/**
+ * @author Lynn
+ *
+ */
 public class TestProxy {
    public static void main(String[] args){
 	  RealSubject real = new RealSubject();
