@@ -11,7 +11,7 @@ public class Diamond {
     public static void main(String[] args){
     	printHollowRhombus(10);
     }
-
+    //未完待续
 	private static void printHollowRhombus(int size) {
 		// TODO Auto-generated method stub
 		if(size%2==0){
